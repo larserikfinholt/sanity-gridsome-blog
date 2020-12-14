@@ -1,4 +1,4 @@
-# Blog with Gridsome
+# Blog with Gridsome teest
 
 _Fully customizable blog template with a Vue.js front-end._
 
